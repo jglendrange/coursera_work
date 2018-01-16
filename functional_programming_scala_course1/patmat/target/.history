@@ -1,0 +1,11 @@
+compile
+test
+run
+submit jrglen2nd@gmail.com RFMOXSdPdfyKDtQs
+val sampleTree = makeCodeTree(
+  makeCodeTree(Leaf('x', 1), Leaf('e', 1)),
+  Leaf('t', 2)
+exit
+submit jrglen2nd@gmail.com uDcKuY5PhYxuSZLq
+:q
+exit
